@@ -28,7 +28,7 @@ import com.google.code.kaptcha.Producer;
 import com.google.code.kaptcha.impl.DefaultKaptcha;
 import com.google.code.kaptcha.util.Config;
 import com.google.common.base.Optional;
-import com.weiwei.common.Constants;
+import com.weiwei.common.constants.Constants;
 import com.weiwei.weiqi.security.authentication.RegisterAuthenticationWithToken;
 import com.weiwei.weiqi.security.token.RegisterTokenService;
 
